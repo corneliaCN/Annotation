@@ -132,7 +132,7 @@
 * 1 `0774IbnRaficSallami.Wafayat`	%132
 * - `0641Sarifini.Muntakhab`	%133
 * 3 `1351YusufIlyanSarkis.MucjamMatbucat`	%134
-* 1 `0597IbnJawzi.SifaSafwa`	%135
+* 1 `0597IbnJawzi.SifaSafwa`	%135 (inProgress)
 * - `0599IbnYahyaDabbi.BughyaMultamis`	%136
 * 1 ~~`0764IbnShakirKutubi.FawatWafayat`	%137~~ completed (Christoph)
 * 3 `1067HajjiKhalifa.KashfZunun`	%138
